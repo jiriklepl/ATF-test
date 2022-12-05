@@ -1,0 +1,307 @@
+/tmp/67c38656-73a9-11ed-a611-7716a6a98793
+
+search space size: 288
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 1 , valid configs: 1 , program cost: 6.06433e+09 , current best result: 6.06433e+09
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 2 , valid configs: 2 , program cost: 6.02871e+09 , current best result: 6.02871e+09
+
+BLOCK_SIZE=45 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=45 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 3 , valid configs: 3 , program cost: 1.51407e+09 , current best result: 1.51407e+09
+
+BLOCK_SIZE=45 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=45 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 4 , valid configs: 4 , program cost: 6.19292e+09 , current best result: 1.51407e+09
+
+BLOCK_SIZE=70 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=70 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 5 , valid configs: 5 , program cost: 1.43083e+09 , current best result: 1.43083e+09
+
+BLOCK_SIZE=1260 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=1260 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 6 , valid configs: 6 , program cost: 9.40571e+09 , current best result: 1.43083e+09
+
+BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 7 , valid configs: 7 , program cost: 1.16704e+09 , current best result: 1.16704e+09
+
+BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 8 , valid configs: 8 , program cost: 1.14996e+09 , current best result: 1.14996e+09
+
+BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 9 , valid configs: 9 , program cost: 1.19253e+09 , current best result: 1.14996e+09
+
+BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 10 , valid configs: 10 , program cost: 1.17864e+09 , current best result: 1.14996e+09
+
+BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 11 , valid configs: 11 , program cost: 1.17815e+09 , current best result: 1.14996e+09
+
+BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 12 , valid configs: 12 , program cost: 5.74513e+09 , current best result: 1.14996e+09
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 13 , valid configs: 13 , program cost: 5.79604e+09 , current best result: 1.14996e+09
+
+BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 14 , valid configs: 14 , program cost: 7.38173e+08 , current best result: 7.38173e+08
+
+BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 15 , valid configs: 15 , program cost: 7.5286e+08 , current best result: 7.38173e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 16 , valid configs: 16 , program cost: 6.11033e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 17 , valid configs: 17 , program cost: 6.5254e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 18 , valid configs: 18 , program cost: 7.6202e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 19 , valid configs: 19 , program cost: 6.20706e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 20 , valid configs: 20 , program cost: 6.61483e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=3 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=3 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 21 , valid configs: 21 , program cost: 1.33238e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 22 , valid configs: 22 , program cost: 1.0032e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 
+evaluated configs: 23 , valid configs: 23 , program cost: 1.34417e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 24 , valid configs: 24 , program cost: 5.89092e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=1 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=1 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 25 , valid configs: 25 , program cost: 3.86055e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 26 , valid configs: 26 , program cost: 1.09629e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 27 , valid configs: 27 , program cost: 1.14308e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 28 , valid configs: 28 , program cost: 1.17194e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 29 , valid configs: 29 , program cost: 6.09398e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 30 , valid configs: 30 , program cost: 6.36142e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 31 , valid configs: 31 , program cost: 1.18202e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=3 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=3 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 32 , valid configs: 32 , program cost: 9.4e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 33 , valid configs: 33 , program cost: 7.05518e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 34 , valid configs: 34 , program cost: 6.09991e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 35 , valid configs: 35 , program cost: 6.13024e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=1 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=1 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 36 , valid configs: 36 , program cost: 2.31576e+10 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 37 , valid configs: 37 , program cost: 6.99613e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 38 , valid configs: 38 , program cost: 6.95372e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 39 , valid configs: 39 , program cost: 6.06752e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 40 , valid configs: 40 , program cost: 5.86067e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 41 , valid configs: 41 , program cost: 6.77772e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 42 , valid configs: 42 , program cost: 6.84986e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=6 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 43 , valid configs: 43 , program cost: 1.1179e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=1260 COMPILER=gcc OPT_LEVEL=1 BLOCK_SIZE=1260 COMPILER=gcc OPT_LEVEL=1 
+evaluated configs: 44 , valid configs: 44 , program cost: 2.60148e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 45 , valid configs: 45 , program cost: 5.7967e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 46 , valid configs: 46 , program cost: 6.3261e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=3 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=3 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 47 , valid configs: 47 , program cost: 1.39558e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 48 , valid configs: 48 , program cost: 5.85834e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=18 COMPILER=gcc OPT_LEVEL=1 BLOCK_SIZE=18 COMPILER=gcc OPT_LEVEL=1 
+evaluated configs: 49 , valid configs: 49 , program cost: 1.35e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 50 , valid configs: 50 , program cost: 6.55393e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 51 , valid configs: 51 , program cost: 7.99252e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 52 , valid configs: 52 , program cost: 7.06574e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=63 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=63 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 53 , valid configs: 53 , program cost: 6.10641e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 54 , valid configs: 54 , program cost: 8.07719e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 55 , valid configs: 55 , program cost: 6.8395e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 56 , valid configs: 56 , program cost: 7.86418e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 57 , valid configs: 57 , program cost: 6.01907e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 
+evaluated configs: 58 , valid configs: 58 , program cost: 1.40867e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=30 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 59 , valid configs: 59 , program cost: 1.17323e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 60 , valid configs: 60 , program cost: 8.20098e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 
+evaluated configs: 61 , valid configs: 61 , program cost: 1.43256e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 62 , valid configs: 62 , program cost: 5.84165e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 63 , valid configs: 63 , program cost: 7.99855e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 64 , valid configs: 64 , program cost: 7.98445e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 
+evaluated configs: 65 , valid configs: 65 , program cost: 1.3307e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 66 , valid configs: 66 , program cost: 6.07255e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 67 , valid configs: 67 , program cost: 8.46458e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=20 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 68 , valid configs: 68 , program cost: 8.60781e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=1260 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=1260 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 69 , valid configs: 69 , program cost: 2.12177e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=105 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=105 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 70 , valid configs: 70 , program cost: 5.96011e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=15 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=15 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 71 , valid configs: 71 , program cost: 6.86458e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 72 , valid configs: 72 , program cost: 5.88621e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=14 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=14 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 73 , valid configs: 73 , program cost: 1.42888e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=9 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=9 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 74 , valid configs: 74 , program cost: 7.5782e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 75 , valid configs: 75 , program cost: 6.18936e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 76 , valid configs: 76 , program cost: 7.89575e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 77 , valid configs: 77 , program cost: 5.88839e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 78 , valid configs: 78 , program cost: 6.58051e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 79 , valid configs: 79 , program cost: 6.37041e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=1 
+evaluated configs: 80 , valid configs: 80 , program cost: 1.41527e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 81 , valid configs: 81 , program cost: 6.00447e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 82 , valid configs: 82 , program cost: 6.49677e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=clang OPT_LEVEL=2 BLOCK_SIZE=140 COMPILER=clang OPT_LEVEL=2 
+evaluated configs: 83 , valid configs: 83 , program cost: 1.16374e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=70 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=70 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 84 , valid configs: 84 , program cost: 6.08997e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 85 , valid configs: 85 , program cost: 6.59336e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=15 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=15 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 86 , valid configs: 86 , program cost: 7.22505e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=2 BLOCK_SIZE=140 COMPILER=gcc OPT_LEVEL=2 
+evaluated configs: 87 , valid configs: 87 , program cost: 8.03345e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 88 , valid configs: 88 , program cost: 5.94511e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=9 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=9 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 89 , valid configs: 89 , program cost: 7.78679e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 BLOCK_SIZE=84 COMPILER=gcc OPT_LEVEL=0 
+evaluated configs: 90 , valid configs: 90 , program cost: 5.67548e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=1260 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=1260 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 91 , valid configs: 91 , program cost: 1.92056e+09 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 92 , valid configs: 92 , program cost: 6.54769e+08 , current best result: 6.11033e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 93 , valid configs: 93 , program cost: 6.04187e+08 , current best result: 6.04187e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 94 , valid configs: 94 , program cost: 6.1975e+08 , current best result: 6.04187e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 95 , valid configs: 95 , program cost: 5.97559e+08 , current best result: 5.97559e+08
+
+BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=12 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 96 , valid configs: 96 , program cost: 6.1029e+08 , current best result: 5.97559e+08
+
+BLOCK_SIZE=15 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=15 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 97 , valid configs: 97 , program cost: 6.87407e+08 , current best result: 5.97559e+08
+
+BLOCK_SIZE=9 COMPILER=gcc OPT_LEVEL=3 BLOCK_SIZE=9 COMPILER=gcc OPT_LEVEL=3 
+evaluated configs: 98 , valid configs: 98 , program cost: 7.6068e+08 , current best result: 5.97559e+08
+
+
+number of evaluated configs: 98 , number of valid configs: 98 , number of invalid configs: 0 , evaluations required to find best found result: 95 , valid evaluations required to find best found result: 95
+
+total runtime for tuning = 300sec
+tuning finished
+best config:
+BLOCK_SIZE = 12
+COMPILER = gcc
+OPT_LEVEL = 3
